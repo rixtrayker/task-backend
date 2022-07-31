@@ -47,4 +47,4 @@ curl http//task-backend.test/api/users/search?q=AH&page=  -H "Accept: applicatio
 ## HTTP Response RFC standard
 
 
-![alt text](https://github.com/rixtrayker/task-backend/blob/master/rfc-mind-map.jpg?raw=true)
+![alt text](https://github.com/rixtrayker/task-backend/blob/master/rfc-mindmap.jpg?raw=true)
